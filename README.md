@@ -29,5 +29,6 @@ Tensorflow implementation of [https://github.com/PacktPublishing/Hands-On-Comput
       - leftImg8bit
       - leftImg8bit_blurred
 
-## U-Net architecture
-![unet](https://user-images.githubusercontent.com/75243173/168416744-734a14a7-7d66-44ab-9ec7-099ba4e58404.png)
+## FCN architecture
+![fcn](https://user-images.githubusercontent.com/75243173/168417856-6ec62a8f-b9d7-45f2-a3d3-085c41c92efc.png)
+

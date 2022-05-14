@@ -8,12 +8,11 @@ Tensorflow implementation of [https://github.com/PacktPublishing/Hands-On-Comput
 
 ## Additional Files
 1. cityscapes_utils.py: utility functions for the Cityscapes dataset 
-2. fcn.py: functional implementation of the FCN-8s architecture 
-3. keras_custom_callbacks.py: custom Keras callbacks to monitor the trainings of models 
-4. mnist_utils.py: utility functions for the MNIST dataset, using tensorflow-datasets 
-5. plot_utils.py: utility functions to display results
-6. tf_losses_and_metrics.py: custom losses and metrics to train/evalute CNNs
-7. tf_math.py: custom mathematical functions reused in other scripts
+2. keras_custom_callbacks.py: custom Keras callbacks to monitor the trainings of models 
+3. mnist_utils.py: utility functions for the MNIST dataset, using tensorflow-datasets 
+4. plot_utils.py: utility functions to display results
+5. tf_losses_and_metrics.py: custom losses and metrics to train/evalute CNNs
+6. tf_math.py: custom mathematical functions reused in other scripts
 
 
 

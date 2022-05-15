@@ -1,4 +1,4 @@
-# FCN-8s
+# FCN
 Tensorflow implementation of [https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2/tree/master/Chapter06] It was trained on the Cityscapes dataset.
 
 ## Requirements
